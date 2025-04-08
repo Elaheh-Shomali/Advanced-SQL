@@ -4,7 +4,7 @@ Welcome to **Advanced SQL** – a repository dedicated to sharpening your interm
 
 ## Overview
 
-SQL remains the cornerstone language for interacting with relational databases, the most prevalent system for organizing vast amounts of data. Despite emerging alternatives, SQL's efficiency and consistency continue to make it the go-to tool for data management and analysis. This repository is tailored to equip you with the expertise needed to tackle complex data problems, moving beyond basic data retrieval into sophisticated manipulation and analysis techniques.
+SQL remains the cornerstone language for interacting with relational databases, the most prevalent system for organizing vast amounts of data. Despite emerging alternatives, SQL's efficiency and consistency continue to make it the go-to tool for data management and analysis. This repository is tailored to equip you with the expertise needed to tackle complex data problems, moving well beyond basic data retrieval into sophisticated manipulation and analysis techniques.
 
 ## What You'll Learn
 
@@ -15,7 +15,7 @@ SQL remains the cornerstone language for interacting with relational databases, 
 ## Repository Structure
 
 - **1_database/**  
-  Contains the `chinook_data.sql` and `northwind_data.sql` files. 
+  Contains the `chinook_data.sql` and `northwind_data.sql` files, which serve as the foundational datasets for the challenges.
 
 - **2_SQL_Scripts/**  
   A collection of SQL scripts that are organized by challenge level. These scripts includes:
